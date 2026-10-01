@@ -1,0 +1,96 @@
+body {
+    background-color: rgb(219, 222, 207);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    text-align: center;
+}
+
+.avatar {
+    width: 300px;
+}
+
+.header__title {
+    font-size: 28px;
+}
+
+.header__subtitle {
+    color: rgb(216, 62, 10);
+}
+
+main {
+    border: solid 1px darkgray;
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+
+.separator {
+    width: 50%;
+    height: 3px;
+    background-color: rgb(172, 172, 243);
+}
+
+.video > iframe {
+    width: 800px;
+    height: 490px;
+}
+
+.ed_table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ed_table th, .ed_table td {
+    border: 1px solid black;    
+    padding: 10px;
+}
+
+.quote {
+    font-size: 32px;
+}
+
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form-control {
+    width: 100%;
+}
+
+.control-text {
+    width: 50%;
+}
+
+footer {
+    height: 100px;
+    text-align: center;
+    background-color: rgb(150, 138, 138);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
